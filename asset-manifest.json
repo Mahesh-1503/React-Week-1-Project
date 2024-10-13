@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Week-1-Project/static/css/main.db49f604.css",
+    "main.js": "/React-Week-1-Project/static/js/main.d8e181f9.js",
+    "index.html": "/React-Week-1-Project/index.html",
+    "main.db49f604.css.map": "/React-Week-1-Project/static/css/main.db49f604.css.map",
+    "main.d8e181f9.js.map": "/React-Week-1-Project/static/js/main.d8e181f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db49f604.css",
+    "static/js/main.d8e181f9.js"
+  ]
+}
